@@ -1,0 +1,11 @@
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\bin\Debug\net9.0\BasicFileWriterUtils.deps.json
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\bin\Debug\net9.0\BasicFileWriterUtils.dll
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\bin\Debug\net9.0\BasicFileWriterUtils.pdb
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.AssemblyInfoInputs.cache
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.AssemblyInfo.cs
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.csproj.CoreCompileInputs.cache
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.dll
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\refint\BasicFileWriterUtils.dll
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\BasicFileWriterUtils.pdb
+C:\Users\Shawn the Fox\Documents\Visual Studio Projects\Projects\BasicFileWriterUtils\obj\Debug\net9.0\ref\BasicFileWriterUtils.dll
